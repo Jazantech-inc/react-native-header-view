@@ -1,0 +1,41 @@
+{
+  "name": "@freakycoder/react-native-header-view",
+  "version": "1.2.0",
+  "description": "Collection of Header Views for React Native.",
+  "keywords": [
+    "elegant",
+    "elegant-header",
+    "gorgeous",
+    "gorgeous-header",
+    "apple",
+    "apple-header",
+    "header",
+    "classic",
+    "modern",
+    "modern-header",
+    "classic-header",
+    "react-native",
+    "icons",
+    "javascript",
+    "ui-lib",
+    "rn",
+    "header-view",
+    "header",
+    "view"
+  ],
+  "homepage": "https://www.freakycoder.com",
+  "bugs": "https://github.com/WrathChaos/react-native-header-view/issues",
+  "main": "./lib/index.js",
+  "repository": "git@github.com:WrathChaos/react-native-header-view.git",
+  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 16.x",
+    "react-native": ">= 0.55.x",
+    "react-native-gorgeous-header": ">= 0.1.0",
+    "react-native-classic-header": ">= 0.1.0",
+    "react-native-modern-header": ">= 0.1.0",
+    "react-native-apple-header": ">= 0.1.0",
+    "react-native-elegant-header": ">= 0.1.0"
+  }
+}
